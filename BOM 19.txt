@@ -1,0 +1,23 @@
+Heavy-Operations-UI-Industry-System-EI-SI
+BOM 19
+
+A. Solar DC Optimizer 
+1. Solar_Cell
+2. NCD5702
+3. LM2776
+4. D_Schottky_Filled x4
+5. GND 
+6. 8080
+7. NCS211R
+
+B. Solar Microinverter
+1. Solar_Cell
+2. NCD5702
+3. LM2776
+4. D_Schottky_Filled x4
+5. GND 
+6. 8080
+7. NCS211R
+
+Note:
+Component 3 was added to make the project more unique, all projects have unique components
